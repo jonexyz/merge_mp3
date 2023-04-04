@@ -1,0 +1,10 @@
+.idea
+/data/logs
+/data/patch
+/data/tpl
+.well-known
+/App/Runtime
+Uploads
+/Application/Runtime
+/node_modules
+/.well-known
